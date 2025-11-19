@@ -7,4 +7,3 @@ app.listen(PORT, () => {
 });
 
 a = 2;
-b = 3;
